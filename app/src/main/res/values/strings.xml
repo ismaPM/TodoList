@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="agregar">Agregar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="todoList">Todo List</string>
+</resources>
